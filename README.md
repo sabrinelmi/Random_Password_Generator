@@ -23,7 +23,7 @@ How it Works
 
     shell
 
-    python password_generator.py
+    python main.py
 
     Follow the prompts to specify the length of the password.
 
